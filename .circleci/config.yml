@@ -58,11 +58,6 @@ jobs:
             fi
             git -C $SCRIPTS_LOCAL_FOLDER checkout $DEPLOY_VERSION
 
-      # Add know host relevant for Prosieben only
-      - run:
-          name: Scripts - Add known hosts
-          command: $SCRIPTS_LOCAL_FOLDER/circleCi/addKnownHosts.sh
-
       # Prepare Bundler
       - restore_cache:
           name: Bundler - restore cache

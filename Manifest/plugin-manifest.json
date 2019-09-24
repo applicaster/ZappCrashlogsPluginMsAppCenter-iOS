@@ -1,0 +1,37 @@
+{
+  "api": {
+    "require_startup_execution": false,
+    "class_name": "ZPGeneralPluginMsAppCenterCrashlogs",
+    "modules": [
+      "ZappGeneralPluginMsAppCenterCrashlogs"
+    ]
+  },
+  "dependency_repository_url": [
+
+  ],
+  "platform": "ios",
+  "author_name": "Alex Zchut",
+  "author_email": "a.zchut@applicaster.com",
+  "manifest_version": "1.0.0",
+  "name": "App Center Crashlogs",
+  "description": "Zapp General Plugin App Center Crashlogs",
+  "type": "general",
+  "screen": false,
+  "identifier": "crashlogs_appcenter",
+  "ui_builder_support": true,
+  "whitelisted_account_ids": [
+
+  ],
+  "dependency_name": "ZappGeneralPluginMsAppCenterCrashlogs",
+  "dependency_version": "1.0.0",
+  "min_zapp_sdk": "12.2.0-Dev",
+  "deprecated_since_zapp_sdk": "",
+  "unsupported_since_zapp_sdk": "",
+  "react_native": false,
+  "custom_configuration_fields": [
+
+  ],
+  "targets": [
+    "mobile"
+  ]
+}

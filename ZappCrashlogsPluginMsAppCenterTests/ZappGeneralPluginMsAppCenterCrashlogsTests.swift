@@ -1,15 +1,15 @@
 //
-//  ZappGeneralPluginMsAppCenterCrashlogsTests.swift
-//  ZappGeneralPluginMsAppCenterCrashlogsTests
+//  ZappCrashlogsPluginMsAppCenterTests.swift
+//  ZappCrashlogsPluginMsAppCenterTests
 //
 //  Created by Alex Zchut on 24/09/2019.
 //  Copyright © 2019 Applicaster Ltd. All rights reserved.
 //
 
 import XCTest
-@testable import ZappGeneralPluginMsAppCenterCrashlogs
+@testable import ZappCrashlogsPluginMsAppCenter
 
-class ZappGeneralPluginMsAppCenterCrashlogsTests: XCTestCase {
+class ZappCrashlogsPluginMsAppCenterTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

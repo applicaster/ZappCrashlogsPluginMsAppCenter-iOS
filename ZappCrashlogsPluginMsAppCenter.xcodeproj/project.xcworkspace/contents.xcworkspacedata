@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ZappGeneralPluginMsAppCenterCrashlogs.xcodeproj">
+      location = "self:ZappCrashlogsPluginMsAppCenter.xcodeproj">
    </FileRef>
 </Workspace>

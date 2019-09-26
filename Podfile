@@ -12,14 +12,14 @@ pre_install do |installer|
 end
 
 def shared_pods
-  # Pods for ZappGeneralPluginMsAppCenterCrashlogs
-  pod 'ZappGeneralPluginsSDK'
+  # Pods for ZappCrashlogsPluginMsAppCenter
+  pod 'ZappCrashlogsPluginsSDK'
   pod 'AppCenter/Crashes', '~> 2.3.0'
 end
 
-target 'ZappGeneralPluginMsAppCenterCrashlogs' do
+target 'ZappCrashlogsPluginMsAppCenter' do
   shared_pods
-  target 'ZappGeneralPluginMsAppCenterCrashlogsTests' do
+  target 'ZappCrashlogsPluginMsAppCenterTests' do
     # Pods for testing
   end
 end

@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		02A267CB90A5A0547ECEF612 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38283A77F5472FE946D65D05 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework */; };
-		1D05653E233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D056534233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework */; };
-		1D056543233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D056542233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.swift */; };
-		1D056545233A45FC0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D056537233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DB6BE61233A5A760066F929 /* ZPGeneralPluginMsAppCenterCrashlogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB6BE60233A5A760066F929 /* ZPGeneralPluginMsAppCenterCrashlogs.swift */; };
-		B889EF76E7590D9DE62F0D76 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33C0CEDDFD7287C8E81BA747 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework */; };
+		02A267CB90A5A0547ECEF612 /* Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38283A77F5472FE946D65D05 /* Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework */; };
+		1D05653E233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D056534233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework */; };
+		1D056543233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D056542233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.swift */; };
+		1D056545233A45FC0070B591 /* ZappCrashlogsPluginMsAppCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D056537233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1DB6BE61233A5A760066F929 /* ZPCrashlogsPluginMsAppCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB6BE60233A5A760066F929 /* ZPCrashlogsPluginMsAppCenter.swift */; };
+		B889EF76E7590D9DE62F0D76 /* Pods_ZappCrashlogsPluginMsAppCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33C0CEDDFD7287C8E81BA747 /* Pods_ZappCrashlogsPluginMsAppCenter.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -21,24 +21,24 @@
 			containerPortal = 1D05652B233A45FB0070B591 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1D056533233A45FB0070B591;
-			remoteInfo = ZappGeneralPluginMsAppCenterCrashlogs;
+			remoteInfo = ZappCrashlogsPluginMsAppCenter;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1435472BA42D9FB8816AB451 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.release.xcconfig"; path = "Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.release.xcconfig"; sourceTree = "<group>"; };
-		1D056534233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZappGeneralPluginMsAppCenterCrashlogs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D056537233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZappGeneralPluginMsAppCenterCrashlogs.h; sourceTree = "<group>"; };
+		1435472BA42D9FB8816AB451 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.release.xcconfig"; path = "Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.release.xcconfig"; sourceTree = "<group>"; };
+		1D056534233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZappCrashlogsPluginMsAppCenter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D056537233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZappCrashlogsPluginMsAppCenter.h; sourceTree = "<group>"; };
 		1D056538233A45FB0070B591 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1D05653D233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZappGeneralPluginMsAppCenterCrashlogsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D056542233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZappGeneralPluginMsAppCenterCrashlogsTests.swift; sourceTree = "<group>"; };
+		1D05653D233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZappCrashlogsPluginMsAppCenterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D056542233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZappCrashlogsPluginMsAppCenterTests.swift; sourceTree = "<group>"; };
 		1D056544233A45FB0070B591 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1DB6BE60233A5A760066F929 /* ZPGeneralPluginMsAppCenterCrashlogs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPGeneralPluginMsAppCenterCrashlogs.swift; sourceTree = "<group>"; };
-		207594C0C9D2A613718AF8F1 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.debug.xcconfig"; path = "Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.debug.xcconfig"; sourceTree = "<group>"; };
-		33C0CEDDFD7287C8E81BA747 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		38283A77F5472FE946D65D05 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D328334E0E56CBF8542A1E7 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappGeneralPluginMsAppCenterCrashlogs.debug.xcconfig"; path = "Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs/Pods-ZappGeneralPluginMsAppCenterCrashlogs.debug.xcconfig"; sourceTree = "<group>"; };
-		F54C1AF771F9140898ED084C /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappGeneralPluginMsAppCenterCrashlogs.release.xcconfig"; path = "Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs/Pods-ZappGeneralPluginMsAppCenterCrashlogs.release.xcconfig"; sourceTree = "<group>"; };
+		1DB6BE60233A5A760066F929 /* ZPCrashlogsPluginMsAppCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZPCrashlogsPluginMsAppCenter.swift; sourceTree = "<group>"; };
+		207594C0C9D2A613718AF8F1 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.debug.xcconfig"; path = "Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.debug.xcconfig"; sourceTree = "<group>"; };
+		33C0CEDDFD7287C8E81BA747 /* Pods_ZappCrashlogsPluginMsAppCenter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZappCrashlogsPluginMsAppCenter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		38283A77F5472FE946D65D05 /* Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D328334E0E56CBF8542A1E7 /* Pods-ZappCrashlogsPluginMsAppCenter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappCrashlogsPluginMsAppCenter.debug.xcconfig"; path = "Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter/Pods-ZappCrashlogsPluginMsAppCenter.debug.xcconfig"; sourceTree = "<group>"; };
+		F54C1AF771F9140898ED084C /* Pods-ZappCrashlogsPluginMsAppCenter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZappCrashlogsPluginMsAppCenter.release.xcconfig"; path = "Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter/Pods-ZappCrashlogsPluginMsAppCenter.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B889EF76E7590D9DE62F0D76 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework in Frameworks */,
+				B889EF76E7590D9DE62F0D76 /* Pods_ZappCrashlogsPluginMsAppCenter.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -54,8 +54,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D05653E233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework in Frameworks */,
-				02A267CB90A5A0547ECEF612 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework in Frameworks */,
+				1D05653E233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework in Frameworks */,
+				02A267CB90A5A0547ECEF612 /* Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,10 +65,10 @@
 		0C33E38A9179DC785E909722 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				4D328334E0E56CBF8542A1E7 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.debug.xcconfig */,
-				F54C1AF771F9140898ED084C /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.release.xcconfig */,
-				207594C0C9D2A613718AF8F1 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.debug.xcconfig */,
-				1435472BA42D9FB8816AB451 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.release.xcconfig */,
+				4D328334E0E56CBF8542A1E7 /* Pods-ZappCrashlogsPluginMsAppCenter.debug.xcconfig */,
+				F54C1AF771F9140898ED084C /* Pods-ZappCrashlogsPluginMsAppCenter.release.xcconfig */,
+				207594C0C9D2A613718AF8F1 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.debug.xcconfig */,
+				1435472BA42D9FB8816AB451 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -76,8 +76,8 @@
 		1D05652A233A45FB0070B591 = {
 			isa = PBXGroup;
 			children = (
-				1D056536233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs */,
-				1D056541233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests */,
+				1D056536233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter */,
+				1D056541233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests */,
 				1D056535233A45FB0070B591 /* Products */,
 				0C33E38A9179DC785E909722 /* Pods */,
 				4E60B5004913AB4248BE1DA5 /* Frameworks */,
@@ -87,36 +87,36 @@
 		1D056535233A45FB0070B591 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D056534233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework */,
-				1D05653D233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.xctest */,
+				1D056534233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework */,
+				1D05653D233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1D056536233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs */ = {
+		1D056536233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter */ = {
 			isa = PBXGroup;
 			children = (
-				1DB6BE60233A5A760066F929 /* ZPGeneralPluginMsAppCenterCrashlogs.swift */,
-				1D056537233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.h */,
+				1DB6BE60233A5A760066F929 /* ZPCrashlogsPluginMsAppCenter.swift */,
+				1D056537233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.h */,
 				1D056538233A45FB0070B591 /* Info.plist */,
 			);
-			path = ZappGeneralPluginMsAppCenterCrashlogs;
+			path = ZappCrashlogsPluginMsAppCenter;
 			sourceTree = "<group>";
 		};
-		1D056541233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests */ = {
+		1D056541233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests */ = {
 			isa = PBXGroup;
 			children = (
-				1D056542233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.swift */,
+				1D056542233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.swift */,
 				1D056544233A45FB0070B591 /* Info.plist */,
 			);
-			path = ZappGeneralPluginMsAppCenterCrashlogsTests;
+			path = ZappCrashlogsPluginMsAppCenterTests;
 			sourceTree = "<group>";
 		};
 		4E60B5004913AB4248BE1DA5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				33C0CEDDFD7287C8E81BA747 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs.framework */,
-				38283A77F5472FE946D65D05 /* Pods_ZappGeneralPluginMsAppCenterCrashlogs_ZappGeneralPluginMsAppCenterCrashlogsTests.framework */,
+				33C0CEDDFD7287C8E81BA747 /* Pods_ZappCrashlogsPluginMsAppCenter.framework */,
+				38283A77F5472FE946D65D05 /* Pods_ZappCrashlogsPluginMsAppCenter_ZappCrashlogsPluginMsAppCenterTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -128,16 +128,16 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D056545233A45FC0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.h in Headers */,
+				1D056545233A45FC0070B591 /* ZappCrashlogsPluginMsAppCenter.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1D056533233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs */ = {
+		1D056533233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D056548233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappGeneralPluginMsAppCenterCrashlogs" */;
+			buildConfigurationList = 1D056548233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappCrashlogsPluginMsAppCenter" */;
 			buildPhases = (
 				33CCEBC6E26CB7A6BCF2DA65 /* [CP] Check Pods Manifest.lock */,
 				1D05652F233A45FB0070B591 /* Headers */,
@@ -149,14 +149,14 @@
 			);
 			dependencies = (
 			);
-			name = ZappGeneralPluginMsAppCenterCrashlogs;
-			productName = ZappGeneralPluginMsAppCenterCrashlogs;
-			productReference = 1D056534233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs.framework */;
+			name = ZappCrashlogsPluginMsAppCenter;
+			productName = ZappCrashlogsPluginMsAppCenter;
+			productReference = 1D056534233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		1D05653C233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests */ = {
+		1D05653C233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D05654B233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappGeneralPluginMsAppCenterCrashlogsTests" */;
+			buildConfigurationList = 1D05654B233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappCrashlogsPluginMsAppCenterTests" */;
 			buildPhases = (
 				FAF0C77326E30E1C9DE505FE /* [CP] Check Pods Manifest.lock */,
 				1D056539233A45FB0070B591 /* Sources */,
@@ -169,9 +169,9 @@
 			dependencies = (
 				1D056540233A45FB0070B591 /* PBXTargetDependency */,
 			);
-			name = ZappGeneralPluginMsAppCenterCrashlogsTests;
-			productName = ZappGeneralPluginMsAppCenterCrashlogsTests;
-			productReference = 1D05653D233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.xctest */;
+			name = ZappCrashlogsPluginMsAppCenterTests;
+			productName = ZappCrashlogsPluginMsAppCenterTests;
+			productReference = 1D05653D233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -193,7 +193,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1D05652E233A45FB0070B591 /* Build configuration list for PBXProject "ZappGeneralPluginMsAppCenterCrashlogs" */;
+			buildConfigurationList = 1D05652E233A45FB0070B591 /* Build configuration list for PBXProject "ZappCrashlogsPluginMsAppCenter" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -205,8 +205,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D056533233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs */,
-				1D05653C233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests */,
+				1D056533233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter */,
+				1D05653C233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests */,
 			);
 		};
 /* End PBXProject section */
@@ -244,7 +244,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ZappGeneralPluginMsAppCenterCrashlogs-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ZappCrashlogsPluginMsAppCenter-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -257,15 +257,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FAF0C77326E30E1C9DE505FE /* [CP] Check Pods Manifest.lock */ = {
@@ -283,7 +283,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -297,7 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1DB6BE61233A5A760066F929 /* ZPGeneralPluginMsAppCenterCrashlogs.swift in Sources */,
+				1DB6BE61233A5A760066F929 /* ZPCrashlogsPluginMsAppCenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,7 +305,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D056543233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogsTests.swift in Sources */,
+				1D056543233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenterTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,7 +314,7 @@
 /* Begin PBXTargetDependency section */
 		1D056540233A45FB0070B591 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1D056533233A45FB0070B591 /* ZappGeneralPluginMsAppCenterCrashlogs */;
+			target = 1D056533233A45FB0070B591 /* ZappCrashlogsPluginMsAppCenter */;
 			targetProxy = 1D05653F233A45FB0070B591 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -446,7 +446,7 @@
 		};
 		1D056549233A45FC0070B591 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D328334E0E56CBF8542A1E7 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.debug.xcconfig */;
+			baseConfigurationReference = 4D328334E0E56CBF8542A1E7 /* Pods-ZappCrashlogsPluginMsAppCenter.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
@@ -456,14 +456,14 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = ZappGeneralPluginMsAppCenterCrashlogs/Info.plist;
+				INFOPLIST_FILE = ZappCrashlogsPluginMsAppCenter/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappGeneralPluginMsAppCenterCrashlogs;
+				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappCrashlogsPluginMsAppCenter;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -474,7 +474,7 @@
 		};
 		1D05654A233A45FC0070B591 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F54C1AF771F9140898ED084C /* Pods-ZappGeneralPluginMsAppCenterCrashlogs.release.xcconfig */;
+			baseConfigurationReference = F54C1AF771F9140898ED084C /* Pods-ZappCrashlogsPluginMsAppCenter.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
@@ -484,14 +484,14 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = ZappGeneralPluginMsAppCenterCrashlogs/Info.plist;
+				INFOPLIST_FILE = ZappCrashlogsPluginMsAppCenter/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappGeneralPluginMsAppCenterCrashlogs;
+				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappCrashlogsPluginMsAppCenter;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -501,16 +501,16 @@
 		};
 		1D05654C233A45FC0070B591 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 207594C0C9D2A613718AF8F1 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.debug.xcconfig */;
+			baseConfigurationReference = 207594C0C9D2A613718AF8F1 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ZappGeneralPluginMsAppCenterCrashlogsTests/Info.plist;
+				INFOPLIST_FILE = ZappCrashlogsPluginMsAppCenterTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappGeneralPluginMsAppCenterCrashlogsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappCrashlogsPluginMsAppCenterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -518,16 +518,16 @@
 		};
 		1D05654D233A45FC0070B591 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1435472BA42D9FB8816AB451 /* Pods-ZappGeneralPluginMsAppCenterCrashlogs-ZappGeneralPluginMsAppCenterCrashlogsTests.release.xcconfig */;
+			baseConfigurationReference = 1435472BA42D9FB8816AB451 /* Pods-ZappCrashlogsPluginMsAppCenter-ZappCrashlogsPluginMsAppCenterTests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ZappGeneralPluginMsAppCenterCrashlogsTests/Info.plist;
+				INFOPLIST_FILE = ZappCrashlogsPluginMsAppCenterTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappGeneralPluginMsAppCenterCrashlogsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.applicaster.ZappCrashlogsPluginMsAppCenterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -536,7 +536,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D05652E233A45FB0070B591 /* Build configuration list for PBXProject "ZappGeneralPluginMsAppCenterCrashlogs" */ = {
+		1D05652E233A45FB0070B591 /* Build configuration list for PBXProject "ZappCrashlogsPluginMsAppCenter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D056546233A45FC0070B591 /* Debug */,
@@ -545,7 +545,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1D056548233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappGeneralPluginMsAppCenterCrashlogs" */ = {
+		1D056548233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappCrashlogsPluginMsAppCenter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D056549233A45FC0070B591 /* Debug */,
@@ -554,7 +554,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1D05654B233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappGeneralPluginMsAppCenterCrashlogsTests" */ = {
+		1D05654B233A45FC0070B591 /* Build configuration list for PBXNativeTarget "ZappCrashlogsPluginMsAppCenterTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D05654C233A45FC0070B591 /* Debug */,

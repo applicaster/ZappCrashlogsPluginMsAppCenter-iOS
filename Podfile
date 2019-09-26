@@ -13,7 +13,7 @@ end
 
 def shared_pods
   # Pods for ZappCrashlogsPluginMsAppCenter
-  pod 'ZappCrashlogsPluginsSDK'
+  pod 'ZappCrashlogsPluginsSDK', :git => 'git@github.com:applicaster/ZappCrashlogsPluginsSDK-iOS.git', :branch => 'master'
   pod 'AppCenter/Crashes', '~> 2.3.0'
 end
 

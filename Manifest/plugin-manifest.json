@@ -16,7 +16,7 @@
   "manifest_version": "1.0.0",
   "name": "App Center Crashlogs",
   "description": "Zapp Crashlogs Plugin App Center",
-  "type": "general",
+  "type": "error_monitoring",
   "screen": false,
   "identifier": "crashlogs_appcenter",
   "ui_builder_support": true,

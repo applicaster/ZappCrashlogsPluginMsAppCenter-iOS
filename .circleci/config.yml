@@ -82,14 +82,6 @@ jobs:
           name: CocoaPods - version
           command: bundle exec pod --version
 
-      - run:
-          name: Git - submodules update
-          command: |
-            git fetch
-            git checkout .
-            git submodule sync --recursive
-            git submodule update --init --recursive
-
       # Pod update
       - run:
           name: CocoaPods - update dependencies

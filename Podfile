@@ -4,7 +4,7 @@ use_frameworks!
 install! 'cocoapods', :deterministic_uuids => false
 
 source 'git@github.com:CocoaPods/Specs.git'
-source 'git@github.com:applicaster/CocoaPods-Private.git'
+source 'git@github.com:applicaster/PluginsBuilderCocoaPods.git'
 source 'git@github.com:applicaster/CocoaPods.git'
 pre_install do |installer|
     # workaround for https://github.com/CocoaPods/CocoaPods/issues/3289
@@ -13,7 +13,7 @@ end
 
 def shared_pods
   # Pods for ZappCrashlogsPluginMsAppCenter
-  pod 'ZappCrashlogsPluginsSDK', :git => 'git@github.com:applicaster/ZappCrashlogsPluginsSDK-iOS.git', :branch => 'master'
+  pod 'ZappCrashlogsPluginsSDK', '~> 2.3.0' #, :git => 'git@github.com:applicaster/ZappCrashlogsPluginsSDK-iOS.git', :branch => 'master'
   pod 'AppCenter/Crashes', '~> 2.3.0'
 end
 

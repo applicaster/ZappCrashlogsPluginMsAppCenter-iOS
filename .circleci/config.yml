@@ -76,7 +76,7 @@ jobs:
       # Restore Cocoapods cache, save cache on lower level, after pod update
       - restore_cache:
           name: CocoaPods - restore cache
-          key: Zapp-ZappCrashlogsPluginMsAppCenter-CocoaPods-2
+          key: Zapp-ZappCrashlogsPluginMsAppCenter-CocoaPods-3
 
       - run:
           name: CocoaPods - version
@@ -90,7 +90,7 @@ jobs:
       # Cache CocoaPods
       - save_cache:
           name: CocoaPods - save cache
-          key: Zapp-ZappCrashlogsPluginMsAppCenter-CocoaPods-2
+          key: Zapp-ZappCrashlogsPluginMsAppCenter-CocoaPods-3
           paths:
             - "~/.cocoapods"
             - "Pods"

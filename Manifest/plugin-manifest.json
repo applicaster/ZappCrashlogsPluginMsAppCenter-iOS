@@ -13,7 +13,7 @@
   "platform": "ios",
   "author_name": "Alex Zchut",
   "author_email": "a.zchut@applicaster.com",
-  "manifest_version": "2.0.0",
+  "manifest_version": "3.0.0",
   "name": "App Center Crashlogs",
   "description": "Zapp Crashlogs Plugin App Center",
   "type": "error_monitoring",
@@ -23,7 +23,7 @@
   "whitelisted_account_ids": [
   ],
   "dependency_name": "ZappCrashlogsPluginMsAppCenter",
-  "dependency_version": "2.0.0",
+  "dependency_version": "3.0.0",
   "min_zapp_sdk": "13.0.0-Dev",
   "deprecated_since_zapp_sdk": "",
   "unsupported_since_zapp_sdk": "",
